@@ -17,4 +17,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/category', 'App\Http\Controllers\CategoryController@index');
+Route::get('/BeltranRaveRyan', 'App\Http\Controllers\CategoryController@index');
